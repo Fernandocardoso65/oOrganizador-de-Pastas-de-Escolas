@@ -1,1 +1,1 @@
-# oOrganizador-de-Pastas-de-Escolas
+# Organizador-de-Pastas-de-Escolas
